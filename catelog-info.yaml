@@ -4,7 +4,8 @@ metadata:
  name: full-stack-user
  description: REST API for managing users in the system
  annotations:
- backstage.io/techdocs-ref: value
+ backstage.io/techdocs-ref: dir:.
+ backstage.io/ci-url: https://github.com/CloudDevops7171/full_stack_blogging/actions
  github.com/project-slug: user-29
 spec:
  type: service
